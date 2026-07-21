@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Room 7-1",
+    "name": "Maths Senior Faculty Office",
+    "type": "Faculty Office",
+    "incharge": "Dr. Sharma & Dept. Staff"
+  },
+  {
+    "id": "Room 7-2",
+    "name": "Calculus & Algebra Lab",
+    "type": "Practical Lab",
+    "incharge": "Prof. Verma"
+  },
+  {
+    "id": "Room 2-1",
+    "name": "Dean Academic Office",
+    "type": "Admin Office",
+    "incharge": "Dr. V. K. Mehta (Dean)"
+  },
+  {
+    "id": "Room 10-1",
+    "name": "Principal & Management Office",
+    "type": "Executive Office",
+    "incharge": "Principal Desk"
+  },
+  {
+    "id": "Room 1-1",
+    "name": "Student Admissions & Helpdesk",
+    "type": "Reception",
+    "incharge": "Mr. Patel"
+  }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SOU 3D Blueprint Navigator</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Three.js Library CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <!-- OrbitControls for Mouse Interaction -->
+  <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+</head>
+<body>
+
+  <!-- Search & Filter Controls -->
+  <div class="ui-panel">
+    <h2>SOU Blueprint Nav</h2>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search Room, Dean, Faculty... (e.g. 701)">
+    </div>
+    <div id="infoCard" class="info-card">
+      <p>Search ya building blocks click karke info dekho.</p>
+    </div>
+  </div>
+
+  <!-- 3D Canvas Container -->
+  <div id="canvas-container"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
