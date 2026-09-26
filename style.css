@@ -17,7 +17,7 @@ body {
   display: block;
 }
 
-/* Compact UI Panel to avoid blockages on screen */
+/* Compact UI Panel */
 .ui-panel {
   position: absolute;
   top: 15px;
